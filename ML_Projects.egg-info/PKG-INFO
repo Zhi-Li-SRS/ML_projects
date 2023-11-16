@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML-Projects
+Version: 0.1
+Author: Zhi Li
+Author-email: zhl026@ucsd.edu
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
