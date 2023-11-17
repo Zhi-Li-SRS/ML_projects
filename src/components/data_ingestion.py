@@ -10,9 +10,10 @@ from src.pipeline.logger import logging
 
 
 class DataIngestionConfig:
-    train_data_path = os.path.join("artifacts", "train.csv")
-    test_data_path = os.path.join("artifacts", "test.csv")
-    raw_data_path = os.path.join("artifacts", "raw_data.csv")
+    def __init__(self):
+        self.train_data_path = os.path.join("artifacts", "train.csv")
+        self.test_data_path = os.path.join("artifacts", "test.csv")
+        self.raw_data_path = os.path.join("artifacts", "raw_data.csv")
 
 
 class DataIngestion:
@@ -28,7 +29,7 @@ class DataIngestion:
             os.makedirs(
                 os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True
             )
-            df.to_csv(self.ingestion_config.raw_data_path, index=False)
+            df.to_csv(self.ingestion_config_raw_data_path, index=Fa)
 
             logging.info("Train and test split initiated")
             train_set, test_set = train_test_split(df, test_size=0.2, random_state=42)
