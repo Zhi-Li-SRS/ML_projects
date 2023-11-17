@@ -1,0 +1,15 @@
+2023-11-16 15:48:02,629 INFO root Enter the data ingestion
+2023-11-16 15:48:02,631 INFO root Read the datasets as dataframe
+2023-11-16 15:48:54,801 INFO root Enter the data ingestion
+2023-11-16 15:48:54,802 INFO root Read the datasets as dataframe
+2023-11-16 15:50:07,347 INFO root Enter the data ingestion
+2023-11-16 15:50:07,348 INFO root Read the datasets as dataframe
+2023-11-16 15:50:07,351 INFO root Train and test split initiated
+2023-11-16 15:51:34,972 INFO root Enter the data ingestion
+2023-11-16 15:51:34,973 INFO root Read the datasets as dataframe
+2023-11-16 15:52:02,403 INFO root Enter the data ingestion
+2023-11-16 15:52:02,404 INFO root Read the datasets as dataframe
+2023-11-16 15:52:16,387 INFO root Enter the data ingestion
+2023-11-16 15:52:16,388 INFO root Read the datasets as dataframe
+2023-11-16 15:52:16,390 INFO root Train and test split initiated
+2023-11-16 15:52:16,392 INFO root Ingestion of the data is completed
