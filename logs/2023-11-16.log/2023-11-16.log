@@ -13,3 +13,73 @@
 2023-11-16 15:52:16,388 INFO root Read the datasets as dataframe
 2023-11-16 15:52:16,390 INFO root Train and test split initiated
 2023-11-16 15:52:16,392 INFO root Ingestion of the data is completed
+2023-11-16 17:26:18,829 INFO root Enter the data ingestion
+2023-11-16 17:26:18,832 INFO root Read the datasets as dataframe
+2023-11-16 17:27:03,781 INFO root Enter the data ingestion
+2023-11-16 17:27:03,782 INFO root Read the datasets as dataframe
+2023-11-16 17:27:43,743 INFO root Enter the data ingestion
+2023-11-16 17:27:43,745 INFO root Read the datasets as dataframe
+2023-11-16 17:29:24,094 INFO root Enter the data ingestion
+2023-11-16 17:29:24,096 INFO root Read the datasets as dataframe
+2023-11-16 17:29:24,099 INFO root Train and test split initiated
+2023-11-16 17:29:24,105 INFO root Ingestion of the data is completed
+2023-11-16 17:29:56,325 INFO root Enter the data ingestion
+2023-11-16 17:29:56,327 INFO root Read the datasets as dataframe
+2023-11-16 17:29:56,329 INFO root Train and test split initiated
+2023-11-16 17:29:56,331 INFO root Ingestion of the data is completed
+2023-11-16 17:30:29,472 INFO root Enter the data ingestion
+2023-11-16 17:30:29,474 INFO root Read the datasets as dataframe
+2023-11-16 17:30:29,476 INFO root Train and test split initiated
+2023-11-16 17:30:29,478 INFO root Ingestion of the data is completed
+2023-11-16 17:30:52,048 INFO root Enter the data ingestion
+2023-11-16 17:30:52,050 INFO root Read the datasets as dataframe
+2023-11-16 17:30:52,052 INFO root Train and test split initiated
+2023-11-16 17:30:52,054 INFO root Ingestion of the data is completed
+2023-11-16 17:30:52,055 INFO root read the train and test data as dataframe
+2023-11-16 17:30:52,055 INFO root obatin the preprocessor object
+2023-11-16 17:31:09,734 INFO root Enter the data ingestion
+2023-11-16 17:31:09,736 INFO root Read the datasets as dataframe
+2023-11-16 17:31:09,738 INFO root Train and test split initiated
+2023-11-16 17:31:09,741 INFO root Ingestion of the data is completed
+2023-11-16 17:31:09,742 INFO root read the train and test data as dataframe
+2023-11-16 17:31:09,742 INFO root obatin the preprocessor object
+2023-11-16 17:31:09,742 INFO root categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2023-11-16 17:31:09,742 INFO root numerical columns: ['writing_score', 'reading_score']
+2023-11-16 17:31:38,127 INFO root Enter the data ingestion
+2023-11-16 17:31:38,129 INFO root Read the datasets as dataframe
+2023-11-16 17:31:38,131 INFO root Train and test split initiated
+2023-11-16 17:31:38,133 INFO root Ingestion of the data is completed
+2023-11-16 17:31:38,134 INFO root read the train and test data as dataframe
+2023-11-16 17:31:38,134 INFO root obatin the preprocessor object
+2023-11-16 17:31:38,135 INFO root categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2023-11-16 17:31:38,135 INFO root numerical columns: ['writing_score', 'reading_score']
+2023-11-16 17:31:38,136 INFO root apply the preprocessor objecet on the train and test datasets
+2023-11-16 17:36:00,725 INFO root Enter the data ingestion
+2023-11-16 17:36:00,729 INFO root Read the datasets as dataframe
+2023-11-16 17:36:00,732 INFO root Train and test split initiated
+2023-11-16 17:36:00,737 INFO root Ingestion of the data is completed
+2023-11-16 17:36:00,738 INFO root read the train and test data as dataframe
+2023-11-16 17:36:00,738 INFO root obatin the preprocessor object
+2023-11-16 17:36:00,738 INFO root categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2023-11-16 17:36:00,738 INFO root numerical columns: ['writing_score', 'reading_score']
+2023-11-16 17:36:00,739 INFO root apply the preprocessor objecet on the train and test datasets
+2023-11-16 17:38:46,523 INFO root Enter the data ingestion
+2023-11-16 17:38:46,528 INFO root Read the datasets as dataframe
+2023-11-16 17:38:46,531 INFO root Train and test split initiated
+2023-11-16 17:38:46,537 INFO root Ingestion of the data is completed
+2023-11-16 17:38:46,538 INFO root Read train and test data completed
+2023-11-16 17:38:46,538 INFO root Obtaining preprocessing object
+2023-11-16 17:38:46,538 INFO root Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2023-11-16 17:38:46,538 INFO root Numerical columns: ['writing_score', 'reading_score']
+2023-11-16 17:38:46,539 INFO root Applying preprocessing object on training dataframe and testing dataframe.
+2023-11-16 17:38:46,547 INFO root Saved preprocessing object.
+2023-11-16 17:39:07,458 INFO root Enter the data ingestion
+2023-11-16 17:39:07,459 INFO root Read the datasets as dataframe
+2023-11-16 17:39:07,461 INFO root Train and test split initiated
+2023-11-16 17:39:07,464 INFO root Ingestion of the data is completed
+2023-11-16 17:39:07,465 INFO root Read train and test data completed
+2023-11-16 17:39:07,465 INFO root Obtaining preprocessing object
+2023-11-16 17:39:07,465 INFO root Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2023-11-16 17:39:07,465 INFO root Numerical columns: ['writing_score', 'reading_score']
+2023-11-16 17:39:07,466 INFO root Applying preprocessing object on training dataframe and testing dataframe.
+2023-11-16 17:39:07,471 INFO root Saved preprocessing object.
